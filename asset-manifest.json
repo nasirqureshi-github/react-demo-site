@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-demo-site/static/css/main.2fd92a39.css",
+    "main.js": "/react-demo-site/static/js/main.49c03d59.js",
+    "static/media/general-trading.jpg": "/react-demo-site/static/media/general-trading.36b57939cb4d8481b9ff.jpg",
+    "static/media/import.jpg": "/react-demo-site/static/media/import.8952f31fe754ff9a7c76.jpg",
+    "static/media/export.jpg": "/react-demo-site/static/media/export.8ce38dc0d1e3f4b70e1b.jpg",
+    "static/media/slider-img-2.jpg": "/react-demo-site/static/media/slider-img-2.d5fdde1612bf361c6b90.jpg",
+    "static/media/slider-img-1.jpg": "/react-demo-site/static/media/slider-img-1.ab0bb2aa09cc126a20e6.jpg",
+    "static/media/slider-img-3.jpg": "/react-demo-site/static/media/slider-img-3.4f68fffe3fad2043e5e6.jpg",
+    "index.html": "/react-demo-site/index.html",
+    "main.2fd92a39.css.map": "/react-demo-site/static/css/main.2fd92a39.css.map",
+    "main.49c03d59.js.map": "/react-demo-site/static/js/main.49c03d59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fd92a39.css",
+    "static/js/main.49c03d59.js"
+  ]
+}
